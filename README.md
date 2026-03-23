@@ -1,0 +1,2 @@
+# project_aria_policies
+ProjectAriaの規約およびプライバシーポリシー
