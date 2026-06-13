@@ -1,2 +1,2 @@
-# project_aria_policies
-ProjectAriaの規約およびプライバシーポリシー
+# project_arix_policies
+ProjectArixの規約およびプライバシーポリシー
